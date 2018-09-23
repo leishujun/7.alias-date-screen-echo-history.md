@@ -114,7 +114,7 @@ Tab键：按两下总是会有惊喜
 存放修改历史的路径是~/.bash_history或 /etc/profile中
 
 history -c 清除历史  
-history -d 名字  清楚某个命令的历史   
+history -d 名字  清除某个命令的历史   
 history -s 伪造历史      
 history -a  把磁盘中的历史写进内存中
 history -r  把硬盘中的历史有重复的加进内存的历史中  
